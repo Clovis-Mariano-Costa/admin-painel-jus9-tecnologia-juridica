@@ -1,17 +1,9 @@
-# Painel Administrativo Jus 9
+# Admin Jus 9 Painel
 
-## Repertório
+Repertório: `admin-jus9-painel`
 
-`admin-jus9-painel`
+Status: novo/técnico
 
-## Status
+Mão na Massa Final — padrão visual, assinatura, governança e orientação obrigatória.
 
-novo
-
-## Fase
-
-Pré-Mão na Massa — Pacote Governança encerrado.
-
-## Finalidade
-
-Cria base para painel administrativo de usuários, permissões, documentos, logs, módulos e aprovações.
+© Jus 9 Tecnologia Jurídica — software livre, autoria preservada.
